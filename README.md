@@ -9,4 +9,4 @@ contents
 > * [io.netty.util.concurrent][1]
 > * TODO
 
-  [1]: www.baidu.com
+  [1]: https://github.com/MiloXia/Netty-5.x-Source-code-analysis/blob/master/io.netty.util.concurrent.md
